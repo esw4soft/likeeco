@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,QAAQ,CAAC;EACL,SAAS,EAAE,MAAM;EACjB,MAAM,EAAE,IAAI;EACZ,WAAW,EAAE,IAAI;EACjB,UAAU,EAAE,KAAK;EACjB,MAAM,EAAE,MAAM;CACjB",
+    "sources": [
+        "timeout.scss"
+    ],
+    "names": [],
+    "file": "timeout.css"
+}
